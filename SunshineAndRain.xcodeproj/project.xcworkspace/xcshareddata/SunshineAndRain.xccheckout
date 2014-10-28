@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>717D3F8E-EF3D-4D3D-BFC1-87D9154B55DA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SunshineAndRain</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>15DD54C303C899C8DA1ED36680D1F8E35A906A0D</key>
+		<string>https://github.com/jianyaoang/Sunshine-And-Rain.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SunshineAndRain.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>15DD54C303C899C8DA1ED36680D1F8E35A906A0D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jianyaoang/Sunshine-And-Rain.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>15DD54C303C899C8DA1ED36680D1F8E35A906A0D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>15DD54C303C899C8DA1ED36680D1F8E35A906A0D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SunshineAndRain</string>
+		</dict>
+	</array>
+</dict>
+</plist>
