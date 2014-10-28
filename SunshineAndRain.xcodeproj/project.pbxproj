@@ -13,6 +13,8 @@
 		41F821B519FFAA1000018F40 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41F821B419FFAA1000018F40 /* Images.xcassets */; };
 		41F821B819FFAA1000018F40 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 41F821B619FFAA1000018F40 /* LaunchScreen.xib */; };
 		41F821C419FFAA1100018F40 /* SunshineAndRainTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F821C319FFAA1100018F40 /* SunshineAndRainTests.swift */; };
+		41F821CE19FFAC4100018F40 /* WeatherDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F821CD19FFAC4100018F40 /* WeatherDetailsVC.swift */; };
+		41F821D019FFAD5500018F40 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F821CF19FFAD5500018F40 /* Weather.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		41F821BD19FFAA1000018F40 /* SunshineAndRainTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SunshineAndRainTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		41F821C219FFAA1100018F40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		41F821C319FFAA1100018F40 /* SunshineAndRainTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SunshineAndRainTests.swift; sourceTree = "<group>"; };
+		41F821CD19FFAC4100018F40 /* WeatherDetailsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherDetailsVC.swift; sourceTree = "<group>"; };
+		41F821CF19FFAD5500018F40 /* Weather.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 			children = (
 				41F821AD19FFAA1000018F40 /* AppDelegate.swift */,
 				41F821AF19FFAA1000018F40 /* ViewController.swift */,
+				41F821CD19FFAC4100018F40 /* WeatherDetailsVC.swift */,
+				41F821CF19FFAD5500018F40 /* Weather.swift */,
 				41F821B119FFAA1000018F40 /* Main.storyboard */,
 				41F821B419FFAA1000018F40 /* Images.xcassets */,
 				41F821B619FFAA1000018F40 /* LaunchScreen.xib */,
@@ -212,7 +218,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41F821D019FFAD5500018F40 /* Weather.swift in Sources */,
 				41F821B019FFAA1000018F40 /* ViewController.swift in Sources */,
+				41F821CE19FFAC4100018F40 /* WeatherDetailsVC.swift in Sources */,
 				41F821AE19FFAA1000018F40 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
